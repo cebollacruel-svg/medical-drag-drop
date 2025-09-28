@@ -13,23 +13,23 @@
 </head>
 <body>
 
-<h2>🩺 Drag-and-Drop: Match Medical Terms with Definitions</h2>
+<h2> Drag-and-Drop: Match Medical Terms with Definitions</h2>
 <p>Drag the correct definition to each medical term.</p>
 
 <div class="container">
   <div class="terms">
+    <div class="dropzone" data-answer="Chronic">Chronic</div>
     <div class="dropzone" data-answer="Diagnosis">Diagnosis</div>
     <div class="dropzone" data-answer="Prognosis">Prognosis</div>
     <div class="dropzone" data-answer="Inflammation">Inflammation</div>
     <div class="dropzone" data-answer="Hypertension">Hypertension</div>
     <div class="dropzone" data-answer="Anemia">Anemia</div>
     <div class="dropzone" data-answer="Antibiotic">Antibiotic</div>
-    <div class="dropzone" data-answer="Chronic">Chronic</div>
     <div class="dropzone" data-answer="Benign">Benign</div>
     <div class="dropzone" data-answer="Malignant">Malignant</div>
     <div class="dropzone" data-answer="Vaccination">Vaccination</div>
-    <div class="dropzone" data-answer="Contagious">Contagious</div>
     <div class="dropzone" data-answer="Rehabilitation">Rehabilitation</div>
+    <div class="dropzone" data-answer="Contagious">Contagious</div>
   </div>
 
   <div class="definitions">
