@@ -36,6 +36,7 @@
     <div class="box" draggable="true" data-term="Diagnosis">A medical conclusion identifying the nature of an illness or condition.</div>
     <div class="box" draggable="true" data-term="Prognosis">A prediction of the likely outcome of a disease or condition.</div>
     <div class="box" draggable="true" data-term="Inflammation">The body’s response to infection, injury, or irritation, often causing redness, heat, and swelling.</div>
+    <div class="box" draggable="true" data-term="Rehabilitation">The process of restoring health through therapy after illness or injury.</div>
     <div class="box" draggable="true" data-term="Hypertension">High blood pressure.</div>
     <div class="box" draggable="true" data-term="Anemia">A condition in which the blood has too few red blood cells or too little hemoglobin.</div>
     <div class="box" draggable="true" data-term="Antibiotic">A type of medicine that kills or slows the growth of bacteria.</div>
@@ -44,7 +45,6 @@
     <div class="box" draggable="true" data-term="Malignant">An abnormal growth that is cancerous and can spread to other parts of the body.</div>
     <div class="box" draggable="true" data-term="Vaccination">A substance or treatment that stimulates the body’s immune system to prevent disease.</div>
     <div class="box" draggable="true" data-term="Contagious">Able to spread from one person to another.</div>
-    <div class="box" draggable="true" data-term="Rehabilitation">The process of restoring health through therapy after illness or injury.</div>
   </div>
 </div>
 
